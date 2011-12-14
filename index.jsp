@@ -105,7 +105,7 @@
                 <form action="http://iospanak.wordpress.com/2011/12/14/project-3-shopping-cart-report-with-scriptlets/" method="GET">
                     <input type="submit" value="Report" />
                 </form>
-                <form>
+                <form action="https://github.com/iospanak/Project-3-Shopping-Cart-with-Scriptlets" method="GET">
                         <input type="submit" value="CODE" />
                 </form>   
     </body>
